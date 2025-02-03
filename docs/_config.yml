@@ -3,7 +3,7 @@ remote_theme: just-the-docs/just-the-docs
 # Site settings
 title: BlockSeek Documentation
 description: "BlockSeek: AI-Powered Trading Agent | Smart, Secure, and Efficient Trading Solutions"
-baseurl: "/blockseek"
+baseurl: "/alexw"
 url: ""
 favicon_ico: "/assets/images/favicon.ico"
 logo: "/assets/images/logo.svg"
