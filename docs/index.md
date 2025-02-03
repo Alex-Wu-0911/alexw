@@ -2,7 +2,6 @@
 layout: default
 title: Home
 nav_order: 1
-description: "BlockSeek Documentation - AI-Powered Trading Platform"
 permalink: /
 ---
 
@@ -10,34 +9,34 @@ permalink: /
 
 Welcome to BlockSeek's official documentation. BlockSeek combines state-of-the-art AI with blockchain technology to revolutionize cryptocurrency trading and analysis.
 
-[Get Started](./getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/smashound/blockseek.ai){: .btn .fs-5 .mb-4 .mb-md-0 }
+## Navigation
 
-## Key Features
+- [Architecture Overview](./architecture-overview)
+- [Development Roadmap](./development-roadmap)
+- [Dataset and Training](./dataset-training)
+- [Getting Started](./getting-started)
 
-### AI-Powered Trading
+## External Links
+
+- [BlockSeek GitHub](https://github.com/smashound/blockseek.ai)
+- [Discord Community](https://discord.gg/blockseek)
+
+## About BlockSeek
+
+BlockSeek is an AI-powered trading platform that offers:
+
+### Key Features
+
 - Advanced trading algorithms
 - Real-time market analysis
-
-### Secure Infrastructure
 - Enterprise-grade security
-- Decentralized architecture
-
-### Analytics Dashboard
-- Real-time performance metrics
 - Customizable reporting
 
-## Quick Links
+### Technology Stack
 
-- [Getting Started Guide](./getting-started)
-- [API Reference](./api-reference)
-- [Technical Documentation](./technical-docs)
-
-## Community
-
-- [Discord Community](https://discord.gg/blockseek)
-- [Twitter](https://twitter.com/blockseekai)
-- [GitHub Repository](https://github.com/smashound/blockseek.ai)
+- AI-powered trading engine
+- Secure blockchain infrastructure
+- Real-time analytics dashboard
 
 ## Support
 
